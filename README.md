@@ -1,4 +1,4 @@
-### Hi there!
+### Hi there👋
 ### 我是不会用Github蒟蒻。
 
 [![blogs](https://img.shields.io/badge/blogs-easyf12-red.svg?style=for-the-badge&logo=blogger)](https://easyf12.github.io/website)
