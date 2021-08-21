@@ -10,5 +10,7 @@
 > 竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。
 
 ![easyf12's GitHub stats](https://github-readme-stats.vercel.app/api?username=easyf12&show_icons=true&theme=cobalt)
+
 [![easyf12的基本信息](https://luogu-card.vercel.app/about?id=109369&dark_mode=true&disable_cache=true)](https://www.luogu.com.cn/user/109369)
+
 [![easyf12的练习情况](https://luogu-card.vercel.app/practice?id=109369&dark_mode=true&disable_cache=true)](https://www.luogu.com.cn/user/109369)
