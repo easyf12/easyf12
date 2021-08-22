@@ -1,7 +1,7 @@
 ### Hi there👋
 ### 我是不会用Github蒟蒻。
 
-[![blogs](https://img.shields.io/badge/blogs-easyf12-red.svg?style=for-the-badge&logo=blogger)](https://easyf12.github.io/website)
+[![blogs](https://img.shields.io/badge/blogs-hexo&gridea&luogu-red.svg?style=for-the-badge&logo=blogger)](https://easyf12.github.io/website)
 
 [![codeforces](https://img.shields.io/badge/codeforces-easyf12-blue.svg?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/easyf12)
 
