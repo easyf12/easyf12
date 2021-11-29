@@ -5,7 +5,7 @@
 
 [![codeforces](https://img.shields.io/badge/codeforces-easyf12-blue.svg?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/easyf12)
 
-[![luogu](https://img.shields.io/badge/luogu-level_4-g.svg?style=for-the-badge&logo=codeclimate)](https://www.luogu.com.cn/user/109369)
+[![luogu](https://img.shields.io/badge/luogu-level_5-g.svg?style=for-the-badge&logo=codeclimate)](https://www.luogu.com.cn/user/109369)
 
 我爱看书、编程和打游戏😆。
 
