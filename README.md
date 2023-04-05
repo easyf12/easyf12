@@ -6,9 +6,9 @@
 
 ## 博文更新
 <!-- BLOG-POST-LIST:START -->
+- [生命不可辜负](https://easyf12.top/posts/91587bdd/)
 - [自然](https://easyf12.top/posts/bb85207c/)
 - [冬日凭栏有感](https://easyf12.top/posts/292980b/)
 - [心头](https://easyf12.top/posts/337eb1b1/)
 - [绿叶](https://easyf12.top/posts/a9b56d26/)
-- [我的任课老师](https://easyf12.top/posts/dd3a185a/)
 <!-- BLOG-POST-LIST:END -->
