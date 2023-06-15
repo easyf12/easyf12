@@ -6,9 +6,9 @@
 
 ## 博文更新
 <!-- BLOG-POST-LIST:START -->
+- [书法里的文化](https://easyf12.top/posts/887adf7c/)
 - [论精神世界与现实世界](https://easyf12.top/posts/24783447/)
 - [生命不可辜负](https://easyf12.top/posts/91587bdd/)
 - [自然](https://easyf12.top/posts/bb85207c/)
 - [冬日凭栏有感](https://easyf12.top/posts/292980b/)
-- [心头](https://easyf12.top/posts/337eb1b1/)
 <!-- BLOG-POST-LIST:END -->
