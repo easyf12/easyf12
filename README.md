@@ -6,9 +6,9 @@
 
 ## 博文更新
 <!-- BLOG-POST-LIST:START -->
+- [2023年终总结与展望](https://easyf12.top/posts/6f1ebe5e/)
 - [为土地，为正义，为和平](https://easyf12.top/posts/fb09cde8/)
 - [A Cultural Journey](https://easyf12.top/posts/f0b5731/)
 - [江河的味道](https://easyf12.top/posts/6e624021/)
 - [共饮一江水](https://easyf12.top/posts/10df27e6/)
-- [书法里的文化](https://easyf12.top/posts/887adf7c/)
 <!-- BLOG-POST-LIST:END -->
