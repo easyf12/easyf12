@@ -6,9 +6,9 @@
 
 ## 博文更新
 <!-- BLOG-POST-LIST:START -->
+- [金钱与人际关系](https://easyf12.top/posts/6e61e3e2/)
 - [2023年终总结与展望](https://easyf12.top/posts/6f1ebe5e/)
 - [为土地，为正义，为和平](https://easyf12.top/posts/fb09cde8/)
 - [A Cultural Journey](https://easyf12.top/posts/f0b5731/)
 - [江河的味道](https://easyf12.top/posts/6e624021/)
-- [共饮一江水](https://easyf12.top/posts/10df27e6/)
 <!-- BLOG-POST-LIST:END -->
