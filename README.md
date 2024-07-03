@@ -6,9 +6,9 @@
 
 ## 博文更新
 <!-- BLOG-POST-LIST:START -->
+- [关于文字与文化的关系](https://easyf12.top/posts/6286e655/)
 - [一些想法](https://easyf12.top/posts/2556b57a/)
 - [下雪了](https://easyf12.top/posts/f800a22/)
 - [金钱与人际关系](https://easyf12.top/posts/6e61e3e2/)
 - [2023年终总结与展望](https://easyf12.top/posts/6f1ebe5e/)
-- [为土地，为正义，为和平](https://easyf12.top/posts/fb09cde8/)
 <!-- BLOG-POST-LIST:END -->
