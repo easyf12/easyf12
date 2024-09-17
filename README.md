@@ -6,9 +6,9 @@
 
 ## 博文更新
 <!-- BLOG-POST-LIST:START -->
+- [青春](https://easyf12.top/posts/c1dda00/)
 - [毕业，上高中了](https://easyf12.top/posts/11465d79/)
 - [关于文字与文化的关系](https://easyf12.top/posts/6286e655/)
 - [一些想法](https://easyf12.top/posts/2556b57a/)
 - [下雪了](https://easyf12.top/posts/f800a22/)
-- [金钱与人际关系](https://easyf12.top/posts/6e61e3e2/)
 <!-- BLOG-POST-LIST:END -->
